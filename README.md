@@ -15,3 +15,4 @@ phone_test:phone_fsm_test() - Testar samma som i PDFen vi fick, att ringa med ph
 phone_test:phone_fsm_all() - testar HELA phone_fsm
 -----------------------------------------------------------
 phone_test:phone_simulator() - Kör Roberts telefonsimulator
+-----------------------------------------------------------
